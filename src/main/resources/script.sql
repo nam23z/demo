@@ -19,5 +19,3 @@ create table customer
     password varchar(500) not null,
     role varchar(50)      not null
 );
-insert into customer (id, username, password, role)
-values (1,'ncn3','123','admin');
