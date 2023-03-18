@@ -11,9 +11,9 @@ spring:
         ddl-auto: update
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:5432/demo
-    username: postgres
-    password: 21199422
+    url: jdbc:postgresql://tiny.db.elephantsql.com:5432/meqdgper
+    username: meqdgper
+    password: 03tb3aiKhz3LFde8SPK9Ws2miDhSRzsm
   mvc:
     pathmatch:
       matching-strategy: ant_path_matcher
