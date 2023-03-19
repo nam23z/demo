@@ -1,7 +1,7 @@
 package com.login.demo.demo.controller;
 
 import com.login.demo.demo.model.Greeting;
-import jakarta.websocket.server.PathParam;
+
 import org.springframework.web.bind.annotation.*;
 
 import java.util.concurrent.atomic.AtomicLong;
